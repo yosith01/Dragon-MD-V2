@@ -29,7 +29,7 @@
  "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@AmiyaProgrammer/Dragon-MD-V3-QR?output%20only=1&lite=1#index.js ",
        "required" : true,
-  "value" : ""
+  "value" : "U2FsdGVkX18xlt/RrZrPfwz_S-E-C-K-T-O-R_7KjOxurIrA0DkFNGcphI="
   },
   "ANTI_LINK" :{
     "description" : "Auto Delete Link",
